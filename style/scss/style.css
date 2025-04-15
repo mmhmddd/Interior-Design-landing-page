@@ -813,7 +813,7 @@ nav .nav-btn button:hover {
   width: 100%;
   max-width: 600px;
   z-index: 10;
-  margin-top: 98px;
+  margin-top: 88px;
 }
 #newsletter_section .form-group {
   display: flex;
@@ -852,12 +852,13 @@ nav .nav-btn button:hover {
 #main_footer {
   background-color: black;
   color: white;
-  margin-top: -50px;
+  margin-top: -18px;
+  padding: 50px;
 }
 #main_footer .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 15px;
+  padding: 50px 15px;
 }
 #main_footer .footer-content {
   display: flex;
